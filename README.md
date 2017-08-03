@@ -1,7 +1,6 @@
 '''
 
 Wil je gewoon lezen? Open dan pws.pdf
-
 Wil je weten hoe de lay-out is gemaakt? Open dan met bijvoorbeeld TeXshop of TeXworks het bestand pws.tex
 
 
