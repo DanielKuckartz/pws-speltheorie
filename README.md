@@ -1,5 +1,6 @@
 '''
-PWS speltheorie
+Wil je gewoon lezen? Open dan pws.pdf
+Wil je weten hoe de lay-out is gemaakt? Open dan met bijvoorbeeld TeXshop of TeXworks het bestand pws.tex
 
 Dit profielwerkstuk (PWS) gaat over de speltheorie c.q. verdeelproblemen waarbij taarten (Fair Cake Cutting), erfenissen (bankroetproblemen) en stemmen (verkiezingsparadox) eerlijk verdeeld moeten worden. Het doel van dit profielwerkstuk is om deze handige kennis voor iedereen bereikbaar te maken. Ik heb geprobeerd zo min mogelijk wiskundige tekens en formules te gebruiken en tegelijkertijd het overzicht te bewaren. Ook heb ik veel aandacht besteed aan een prettige lay-out en veel plaatjes ter bevordering van het begrip. 
 
